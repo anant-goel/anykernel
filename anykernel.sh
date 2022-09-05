@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Fussion Kernel for Redmi note 4/4x mido by Alone0316 
+kernel.string=Fussion Kernel for Samsung Galaxy A52S 5G a52sxq by Alone0316
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mido
-supported.versions=9-12
+device.name1=a52sxq
+supported.versions=11-12
 supported.patchlevels=2020-01-
 '; } # end properties
 
