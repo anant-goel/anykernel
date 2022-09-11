@@ -19,7 +19,7 @@ supported.patchlevels=2020-01-
 block=boot;
 is_slot_device=0;
 ramdisk_compression=auto;
-patch_vbmeta_flag=auto;
+patch_vbmeta_flag=0;
 
 
 ## AnyKernel methods (DO NOT CHANGE)
